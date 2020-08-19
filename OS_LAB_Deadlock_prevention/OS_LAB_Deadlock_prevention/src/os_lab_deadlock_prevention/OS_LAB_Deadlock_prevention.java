@@ -13,7 +13,7 @@ import java.io.FileWriter;
 
 /**
  *
- * @author samman
+
  */
 public class OS_LAB_Deadlock_prevention {
 
